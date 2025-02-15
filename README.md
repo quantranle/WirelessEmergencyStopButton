@@ -166,7 +166,7 @@ program them by using FDTI module anymore.
 This is the result:
 ![Products](resources/product.jpg "WESB") Figure 8: Final Products
 
-![Running Gif](resources/final products.gif "WESB")
+![Running_Gif](resources/final products.gif)
 
 ## 7	Power Consumption and Battery Life
 **Power Consumption**
