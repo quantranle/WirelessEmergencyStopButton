@@ -1,0 +1,18 @@
+.SPX1117M3-L-3-3_TR :1 ;LDO Regulator 3.3V 800mA 2.6-15V TO263-3
+SOT230P700X180-4N
+*STM IC
+*NGS
+*PLB 1="ADJ/GND" 2="VOUT_1" 3="VIN" 4="VOUT_2"
+*MXP 4
+*DFN SPX1117M3-L-3-3_TR
+~!Manufacturer_Name (EXAR)
+~!Manufacturer_Part_Number (SPX1117M3-L-3-3/TR)
+~!Mouser Part Number (701-SPX1117M3-L-33TR)
+~!Link Mouser Price/Stock (https://www.mouser.com/Search/Refine.aspx?Keyword=701-SPX1117M3-L-33TR)
+~!Arrow Part Number (SPX1117M3-L-3-3/TR)
+~!Link Arrow Price/Stock (https://www.arrow.com/en/products/spx1117m3-l-3-3tr/exar)
+~!Link Datasheet (https://componentsearchengine.com/Datasheets/2/SPX1117M3-L-3-3_TR.pdf)
+~!Height (1.8mm)
+~!3D_Model (SPX1117M3-L-3-3_TR)
+SPX1117M3-L-3-3_TR
+1.1!U 2.1!U 3.1!U 4.1!U 

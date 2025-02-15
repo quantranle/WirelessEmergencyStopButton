@@ -1,0 +1,16 @@
+.PE4259 :1 ;PART NUMBER ONLY
+SOT65P210X110-6N
+*STM IC
+*NGS
+*PLB 1="RF1" 2="GND" 3="RF2" 4="CTRL" 5="RFC" 6="'CTRL OR VDD'"
+*MXP 6
+*DFN PE4259
+~!WinSource Part Number (-)
+~!WinSource Price/Stock (-)
+~!Manufacturer_Name (Peregrine Semiconductor)
+~!Manufacturer_Part_Number (PE4259)
+~!Link Datasheet (https://datasheet.datasheetarchive.com/originals/distributors/SFDatasheet-2/sf-00045491.pdf)
+~!Height (1.1mm)
+~!3D_Model (PE4259)
+PE4259
+1.1!U 2.1!U 3.1!U 6.1!U 5.1!U 4.1!U 

@@ -1,0 +1,9 @@
+Manufacturer=SEMTECH
+PartNumber=SX1268
+PartCategory=Integrated Circuit
+PackageCategory=Quad Flat No-Lead
+PinCount=25
+Version=2.1
+Released=2024-09-22 08:06:46
+Downloaded=2024-10-26 14:45:15
+3D=Y

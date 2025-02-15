@@ -1,0 +1,18 @@
+.SX1268 :1 ;LoRa Connect Long Range Low Power LoRa Transceiver +22dBm, China frequency bands
+QFN50P400X400X100-25N-D
+*STM IC
+*NGS
+*PLB 1="VDD_IN" 2="GND_1" 3="XTA" 4="XTB" 5="GND_2" 6="DIO3" 7="VREG" 8="GND_3" 9="DCC_SW" 10="VBAT" 11="VBAT_IO" 12="DIO2" 13="DIO1" 14="BUSY" 15="NRESET" 16="MISO" 17="MOSI" 18="SCK" 19="NSS" 20="GND_4" 21="RFI_P" 22="RFI_N" 23="RFO" 24="VR_PA" 25="GND_5"
+*MXP 25
+*DFN SX1268
+~!Manufacturer_Name (SEMTECH)
+~!Manufacturer_Part_Number (SX1268)
+~!Mouser Part Number (-)
+~!Mouser Price/Stock (-)
+~!Arrow Part Number (-)
+~!Arrow Price/Stock (-)
+~!Link Datasheet (https://semtech.my.salesforce.com/sfc/p/E0000000JelG/a/2R000000HTIE/.wr7MYcDJegmsXUflvtVGp7PiqAzdCaqRKXqRr3J8Y4)
+~!Height (1mm)
+~!3D_Model (SX1268)
+SX1268
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 6.1!U 7.1!U 8.1!U 9.1!U 10.1!U 11.1!U 12.1!U 18.1!U 17.1!U 16.1!U 15.1!U 14.1!U 13.1!U 25.1!U 24.1!U 23.1!U 22.1!U 21.1!U 20.1!U 19.1!U 

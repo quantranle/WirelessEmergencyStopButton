@@ -1,0 +1,103 @@
+;Proteus Design Interchange Format
+(PDIF
+ (vendor "SamacSys Limited")
+ (version 1 0)
+ (library
+  (part "TP134005-1"
+   (description "Speakers & Transducers Piezo Transducer")
+   (family "ANA")
+   (package "TP1340051")
+   (attribute "Datasheet Link" "https://www.mouser.com/datasheet/2/683/TP134005-1-359780.pdf")
+   (attribute "Geometry.Height" "6.8mm")
+   (attribute "Manufacturer_Name" "DB Unlimited")
+   (attribute "Manufacturer_Part_Number" "TP134005-1")
+   (attribute "Mouser Part Number" "497-TP134005-1")
+   (attribute "Mouser Price/Stock" "https://www.mouser.com/Search/Refine.aspx?Keyword=497-TP134005-1")
+   (attribute "Arrow Part Number" "")
+   (attribute "Arrow Price/Stock" "")
+   (gate
+    (symbol "TP134005-1")
+    (pin "2" 2 PS)
+    (pin ""  PS)
+   )
+  )
+  (symbol "TP134005-1"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 200 50) (pt 280 50) (pt 380 150) (pt 380 -250) (pt 280 -150) (pt 200 -150))
+   )
+   (graphic
+    (stroke 10)
+    (path (pt 200 50) (pt 200 -150))
+   )
+   (terminal
+    (body (symbol "PIN") (pt 0 0) (rot 0) (mir 0) (visible true))
+    (name (pt 210 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -100) (rot 0) (mir 0) (visible true))
+    (name (pt 210 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+  )
+  (symbol "PIN"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 200 0))))
+  (symbol "PINSHORT"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 100 0))))
+  (package "TP1340051"
+   (units MM)
+   (layer OCCA
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -4.1 7.9)
+      (pt 11.7 7.9)
+      (pt 11.7 -7.9)
+      (pt -4.1 -7.9)
+      (pt -4.1 7.9))))
+   (layer TASM
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed true)
+      (pt -3.1 0)
+      (arc (pt -3.100 0.000) (pt -3.100 -6.900) (pt 10.700 6.900) (start -180.0) (sweep 180.0))
+      (pt 10.7 0)
+      (arc (pt 10.700 0.000) (pt -3.100 -6.900) (pt 10.700 6.900) (start -180.0) (sweep .0))
+      (pt -3.1 0))))
+   (layer TSLK
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -3.1 0)
+      (arc (pt -3.100 0.000) (pt -3.100 -6.900) (pt 10.700 6.900) (start -180.0) (sweep 180.0))
+      (pt 10.7 0)
+      (arc (pt 10.700 0.000) (pt -3.100 -6.900) (pt 10.700 6.900) (start -180.0) (sweep .0))
+      (pt -3.1 0))))
+   (leg 1 (pt 0.000 0.000) (padstack 0))
+   (leg 2 (pt 7.600 0.000) (padstack 0))
+   (padstack 0
+    (hole 0.9)
+    (plated true)
+    (pad (layer TCOP) (round 1.400))
+    (pad (layer INNER) (round 1.400))
+    (pad (layer BCOP) (round 1.400))
+   )
+   (model "TP134005-1.stp"
+    (euler 0 0 0)
+    (offset 0 0 0)
+   )
+  )
+ )
+)

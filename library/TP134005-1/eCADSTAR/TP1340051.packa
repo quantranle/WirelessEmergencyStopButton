@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "TP134005-1"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2018-11-02-17:17:34)
+    (mountForm default
+        (footprintRef "TP1340051")
+        (spec "System")
+    )
+)

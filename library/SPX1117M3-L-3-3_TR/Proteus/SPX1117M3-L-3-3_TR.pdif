@@ -1,0 +1,126 @@
+;Proteus Design Interchange Format
+(PDIF
+ (vendor "SamacSys Limited")
+ (version 1 0)
+ (library
+  (part "SPX1117M3-L-3-3_TR"
+   (description "LDO Regulator 3.3V 800mA 2.6-15V TO263-3")
+   (family "ANA")
+   (package "SOT230P700X180-4N")
+   (attribute "Datasheet Link" "https://componentsearchengine.com/Datasheets/2/SPX1117M3-L-3-3_TR.pdf")
+   (attribute "Geometry.Height" "1.8mm")
+   (attribute "Manufacturer_Name" "EXAR")
+   (attribute "Manufacturer_Part_Number" "SPX1117M3-L-3-3/TR")
+   (attribute "Mouser Part Number" "701-SPX1117M3-L-33TR")
+   (attribute "Mouser Price/Stock" "https://www.mouser.com/Search/Refine.aspx?Keyword=701-SPX1117M3-L-33TR")
+   (attribute "Arrow Part Number" "SPX1117M3-L-3-3/TR")
+   (attribute "Arrow Price/Stock" "https://www.arrow.com/en/products/spx1117m3-l-3-3tr/exar")
+   (gate
+    (symbol "SPX1117M3-L-3-3_TR")
+    (pin "ADJ/GND" 1 PS)
+    (pin "VOUT_1" 2 PS)
+    (pin "VIN" 3 PS)
+    (pin "VOUT_2" 4 PS)
+   )
+  )
+  (symbol "SPX1117M3-L-3-3_TR"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 200 100) (pt 1200 100) (pt 1200 -300) (pt 200 -300) (pt 200 100) (closed))
+   )
+   (terminal
+    (body (symbol "PIN") (pt 0 0) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -100) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -200) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1400 0) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+  )
+  (symbol "PIN"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 200 0))))
+  (symbol "PINSHORT"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 100 0))))
+  (package "SOT230P700X180-4N"
+   (units MM)
+   (layer OCCA
+    (graphic
+     (stroke 0.05)
+     (path
+      (closed true)
+      (pt -4.275 3.6)
+      (pt 4.275 3.6)
+      (pt 4.275 -3.6)
+      (pt -4.275 -3.6)
+      (pt -4.275 3.6))))
+   (layer TASM
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -1.75 3.25)
+      (pt 1.75 3.25)
+      (pt 1.75 -3.25)
+      (pt -1.75 -3.25)
+      (pt -1.75 3.25))))
+   (layer TASM
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed false)
+      (pt -1.75 0.95)
+      (pt 0.55 3.25))))
+   (layer TSLK
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed true)
+      (pt -1.75 3.25)
+      (pt 1.75 3.25)
+      (pt 1.75 -3.25)
+      (pt -1.75 -3.25)
+      (pt -1.75 3.25))))
+   (layer TSLK
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed false)
+      (pt -4.025 3.125)
+      (pt -2.275 3.125))))
+   (leg 1 (pt -3.15 2.3) (padstack 0))
+   (leg 2 (pt -3.15 0) (padstack 0))
+   (leg 3 (pt -3.15 -2.3) (padstack 0))
+   (leg 4 (pt 3.15 0) (padstack 4))
+   (padstack 0
+    (plated false)
+    (pad (layer TCOP) (rectf 0.95 1.75 0 0 0))
+   )
+   (padstack 4
+    (plated false)
+    (pad (layer TCOP) (rectf 1.75 3.2 0 0 90))
+   )
+   (model "SPX1117M3-L-3-3_TR.stp"
+    (euler 0 0 0)
+    (offset 0 0 0)
+   )
+  )
+ )
+)

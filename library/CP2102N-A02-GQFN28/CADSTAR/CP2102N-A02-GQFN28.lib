@@ -1,0 +1,16 @@
+.CP2102N-A02-GQFN28 :1 ;SILICON LABS - CP2102N-A02-GQFN28 - USB TO UART BRIDGE, -40 TO 85DEG C
+QFN50P500X500X80-29N-D
+*STM IC
+*NGS
+*PLB 1="DCD" 2="RI/CLK" 3="GND" 4="D+" 5="D-" 6="VDD" 7="VREGIN" 8="VBUS" 9="RSTB" 10="NC" 11="SUSPENDB" 12="SUSPEND" 13="CHREN" 14="CHR1" 15="CHR0" 16="GPIO.3/WAKEUP" 17="GPIO.2/RS485" 18="GPIO.1/RXT" 19="GPIO.0/TXT" 20="GPIO.6" 21="GPIO.5" 22="GPIO.4" 23="CTS" 24="RTS" 25="RXD" 26="TXD" 27="DSR" 28="DTR" 29="BGND"
+*MXP 29
+*DFN CP2102N-A02-GQFN28
+~!Mouser Part Number (634-CP2102NA02GQFN28)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Silicon-Labs/CP2102N-A02-GQFN28?qs=u16ybLDytRaSBkSkyjYFiA%3D%3D)
+~!Manufacturer_Name (Silicon Labs)
+~!Manufacturer_Part_Number (CP2102N-A02-GQFN28)
+~!Link Datasheet (https://componentsearchengine.com/Datasheets/2/CP2102N-A02-GQFN28.pdf)
+~!Height (0.8mm)
+~!3D_Model (CP2102N-A02-GQFN28)
+CP2102N-A02-GQFN28
+1.1!I 2.1!U 3.1!G 4.1!U 5.1!U 6.1!P 7.1!P 8.1!I 9.1!I 10.1!U 11.1!Y 12.1!Y 13.1!Y 14.1!Y 21.1!U 20.1!U 19.1!U 18.1!U 17.1!U 16.1!U 15.1!Y 29.1!G 28.1!Y 27.1!I 26.1!Y 25.1!I 24.1!Y 23.1!I 22.1!U 

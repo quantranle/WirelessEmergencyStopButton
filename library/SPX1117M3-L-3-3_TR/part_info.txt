@@ -1,0 +1,9 @@
+Manufacturer=EXAR
+PartNumber=SPX1117M3-L-3-3/TR
+PartCategory=Integrated Circuit
+PackageCategory=SOT223 (3-Pin)
+PinCount=4
+Version=2.1
+Released=2019-02-05 14:19:30
+Downloaded=2024-10-22 09:29:24
+3D=Y

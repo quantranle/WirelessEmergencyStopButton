@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "CP2102N-A02-GQFN28"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2019-09-05-12:37:45)
+    (mountForm default
+        (footprintRef "QFN50P500X500X80-29N-D")
+        (spec "System")
+    )
+)

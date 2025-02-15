@@ -1,0 +1,18 @@
+.TP134005-1 :1 ;Speakers & Transducers Piezo Transducer
+TP1340051
+*STM LS
+*NGS
+*PLB 1="1" 2="2"
+*MXP 2
+*DFN TP134005-1
+~!Manufacturer_Name (DB Unlimited)
+~!Manufacturer_Part_Number (TP134005-1)
+~!Mouser Part Number (497-TP134005-1)
+~!Link Mouser Price/Stock (https://www.mouser.com/Search/Refine.aspx?Keyword=497-TP134005-1)
+~!Arrow Part Number (-)
+~!Arrow Price/Stock (-)
+~!Link Datasheet (https://www.mouser.com/datasheet/2/683/TP134005-1-359780.pdf)
+~!Height (6.8mm)
+~!3D_Model (TP134005-1)
+TP134005-1
+1.1!U 2.1!U 

@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'PE4259'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "WINSOURCE_PART_NUMBER", "WINSOURCE_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Peregrine Semiconductor", "PE4259" (!) = "", "SOT65P210X110-6N", "SOT23 (6-Pin)", "", "", "PART NUMBER ONLY", "https://datasheet.datasheetarchive.com/originals/distributors/SFDatasheet-2/sf-00045491.pdf", "1.1 mm"
+END_PART
+
+END.

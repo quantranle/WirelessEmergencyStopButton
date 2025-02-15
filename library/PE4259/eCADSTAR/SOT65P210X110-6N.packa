@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "PE4259"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2021-01-13-12:02:22)
+    (mountForm default
+        (footprintRef "SOT65P210X110-6N")
+        (spec "System")
+    )
+)

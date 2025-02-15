@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP SPX1117M3-L-3-3_TR
+D LDO Regulator 3.3V 800mA 2.6-15V TO263-3
+K
+F https://componentsearchengine.com/Datasheets/2/SPX1117M3-L-3-3_TR.pdf
+$ENDCMP
+#
+#End Doc Library

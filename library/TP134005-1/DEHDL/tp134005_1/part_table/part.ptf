@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'TP134005_1'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "DB Unlimited", "TP134005-1" (!) = "", "TP1340051", "Other", "497-TP134005-1", "https://www.mouser.com/Search/Refine.aspx?Keyword=497-TP134005-1", "", "", "Speakers & Transducers Piezo Transducer", "https://www.mouser.com/datasheet/2/683/TP134005-1-359780.pdf", "6.8 mm"
+END_PART
+
+END.

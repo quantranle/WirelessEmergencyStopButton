@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'SX1268'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "SEMTECH", "SX1268" (!) = "", "QFN50P400X400X100-25N-D", "Quad Flat No-Lead", "", "", "", "", "LoRa Connect Long Range Low Power LoRa Transceiver +22dBm, China frequency bands", "https://semtech.my.salesforce.com/sfc/p/E0000000JelG/a/2R000000HTIE/.wr7MYcDJegmsXUflvtVGp7PiqAzdCaqRKXqRr3J8Y4", "1 mm"
+END_PART
+
+END.

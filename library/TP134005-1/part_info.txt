@@ -1,0 +1,9 @@
+Manufacturer=DB Unlimited
+PartNumber=TP134005-1
+PartCategory=Loudspeaker or Buzzer
+PackageCategory=Other
+PinCount=2
+Version=1.2
+Released=2018-11-02 17:17:34
+Downloaded=2024-11-28 14:31:04
+3D=Y
