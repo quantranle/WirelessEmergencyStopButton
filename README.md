@@ -6,7 +6,7 @@ by: Le Minh Quan Tran / Pham Duc Binh
 
 ***Rhine-Waal University of Applied Sciences***
 
-Date: 13 January 2024
+Date: 13 January 2025
 
 ----
 
@@ -145,7 +145,7 @@ Solder THT components with Solder pen.
 Same as SMD components, make sure all THT components are connected appropriately.
 
 ## 4    Programming and uploading firmware
-We programmed the ESP8266 chips using Arduino IDE and PlatformIO.
+We programmed the ESP8266 chips using Arduino IDE and PlatformIO.  
 The files of Transmitter and Receiver are in the ***code/Official code*** folder.
 
 ## 5    Troubleshooting
@@ -169,14 +169,14 @@ This is the result:
 ![Running_Gif](resources/final_product.gif)
 
 ## 7	Power Consumption and Battery Life
-**Power Consumption**
-V_supply = 6V (measured)
-I_output = 200mA (measured)
-⇒ P_consumed = V_supply * I_output = 5.5V * 200mA = 1200 mW.
-**P_consumed = 1200 mW**
+**Power Consumption**  
+V_supply = 6V (measured)  
+I_output = 200mA (measured)  
+⇒ P_consumed = V_supply * I_output = 5.5V * 200mA = 1200 mW.  
+**P_consumed = 1200 mW**  
 
-**Battery Life**
-Battery capacity of AAA Alkaline: 1200 mAh (datasheet)
+**Battery Life**  
+Battery capacity of AAA Alkaline: 1200 mAh (datasheet)  
 Battery Life = 1200mAh / 200mA = **6 hours**
 
 
